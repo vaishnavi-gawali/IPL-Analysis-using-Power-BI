@@ -3,8 +3,7 @@
 As a longstanding enthusiast of the IPL, I've closely followed the league since its beginning. Motivated by this passion, I embarked on a project centered around the IPL and Power BI, aiming to sharpen my skills in the latter.
 
 Datasource: https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons
-Read my blog:  
-
+  
 I Utilized a step-by-step approach to complete the report:
 
 1.Loaded and merged data files using append query in Transform Data. Cleaned data in Power Query by removing unnecessary columns and disabling unwanted tables. EEstablished connections between various tables to ensure accurate data representation upon selection of specific fields.
@@ -18,4 +17,6 @@ I Utilized a step-by-step approach to complete the report:
 5.On the Player Profile page, implemented slicers and edit interactions to manage visual interactions across multiple visualizations on the same page.
 
 The comprehensive report is now available for analyzing team performance.
+
+For more insights on this report, checkout - https://medium.com/@vaishnavi.gawali29/ipl-analysis-using-power-bi-fc649532b85d
 
